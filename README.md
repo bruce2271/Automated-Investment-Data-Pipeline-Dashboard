@@ -85,7 +85,7 @@ python investing_data_collector.py
 
 **Schedule (Windows Task Scheduler)**
 
-Set trigger to daily 08:00 Mon–Fri, action to run `investing_data_collector.py`. Power Automate Desktop handles opening Power BI and triggering refresh after the script completes.
+Set trigger to daily 06:00 Mon–Fri, action to run `investing_data_collector.py`. Power Automate Desktop handles opening Power BI and triggering refresh after the script completes.
 
 ---
 
